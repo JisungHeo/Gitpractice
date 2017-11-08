@@ -15,4 +15,4 @@ __a content for H3 with double underscore__
 ***
 below horizontal line.
 
-## fuck this is other computer's shit
+## This is made by feature 1 in computer1

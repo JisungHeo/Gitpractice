@@ -17,4 +17,9 @@ below horizontal line.
 
 ## This is made by feature 1 in computer1
 
+
+
 ## second conflict will occur
+
+## fuck this is other computer's shit
+
